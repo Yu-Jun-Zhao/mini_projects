@@ -1,0 +1,1 @@
+A repository that contains different mini_projects
